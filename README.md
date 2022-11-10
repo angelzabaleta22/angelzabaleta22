@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋, Soy Angel Zabaleta</h1>
 <h3 align="center">Desarrollador Web y Estudiante de Ingeniería de Software</h3>
 <div align="center">
-  <img src="Software.jpg"/>
+  <img src="Software2.jpg"/>
 </div>
 
 - 🌱 Actualmente estudio en la **Corporación Universitaria Iberoamericana**
