@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋, Soy Angel Zabaleta</h1>
 <h3 align="center">Desarrollador Web y Estudiante de Ingeniería de Software</h3>
 <div align="center">
-  <img src="https://github.com/arturfil/arturfil/blob/main/san_miguel.jpg"/>
+  <img src=""/>
 </div>
 
 - 🌱 Actualmente estudio en la **Corporación Universitaria Iberoamericana**
