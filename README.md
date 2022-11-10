@@ -4,7 +4,7 @@
   <img src="https://github.com/arturfil/arturfil/blob/main/san_miguel.jpg"/>
 </div>
 
-<p align="center"> <a href="https://twitter.com/arturfilio" target="blank"><img src="https://img.shields.io/twitter/follow/arturfilio?logo=twitter&style=for-the-badge" alt="arturfilio" /></a> </p>
+<p align="center"> <a href="https://twitter.com/arturfilio" target="blank"><img src="https://img.shields.io/twitter/follow/arturfilio?logo=twitter&style=for-the-badge" alt="angelzabaleta22" /></a> </p>
 
 
 - 🌱 Actualmente estudio en la **Corporación Universitaria Iberoamericana**
