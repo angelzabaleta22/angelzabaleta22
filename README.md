@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, Soy Angel Zabaleta</h1>
-<h3 align="center">Desarrollador Web y Estudiante de Ingeniería de Software</h3>
+<h3 align="center">Desarrollador Web e Ingeniero de Software en formación</h3>
 <div align="center">
   <img src="Software.jpg"/>
 </div>
