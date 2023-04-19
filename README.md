@@ -6,7 +6,7 @@
 
 - 🌱 Actualmente estudio en la **Corporación Universitaria Iberoamericana**
 
-- 🏢 Busco trabajo en **Desarrollo Web**
+- 🏢 Trabajo como **Desarrollador**
 
 - 👨‍💻 Puedes ver mis proyectos en https://angelzabaleta.vercel.app/ 
 
